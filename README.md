@@ -112,4 +112,4 @@ The project successfully:
 - Identified the most critical inventory items.
 - Forecasted monthly demand for the upcoming year.
 - Selected Holt-Winters Additive Exponential Smoothing as the best-performing forecasting model.
-- Developed a procurement plan based on forecasted demand. :contentReference[oaicite:5]{index=5} :contentReference[oaicite:6]{index=6}
+- Developed a procurement plan based on forecasted demand. 
