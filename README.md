@@ -113,7 +113,7 @@ The project successfully:
 - Forecasted monthly demand for the upcoming year.
 - Selected Holt-Winters Additive Exponential Smoothing as the best-performing forecasting model.
 - Developed a procurement plan based on forecasted demand.
-- 
+  
 ## SPSS Files
 
 This repository contains the original SPSS syntax (.sps), data (.sav), and output (.spv) files used during the analysis.
