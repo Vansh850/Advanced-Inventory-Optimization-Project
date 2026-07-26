@@ -112,4 +112,10 @@ The project successfully:
 - Identified the most critical inventory items.
 - Forecasted monthly demand for the upcoming year.
 - Selected Holt-Winters Additive Exponential Smoothing as the best-performing forecasting model.
-- Developed a procurement plan based on forecasted demand. 
+- Developed a procurement plan based on forecasted demand.
+- 
+## SPSS Files
+
+This repository contains the original SPSS syntax (.sps), data (.sav), and output (.spv) files used during the analysis.
+
+GitHub cannot preview these binary file formats. Please download them and open them using IBM SPSS Statistics.
